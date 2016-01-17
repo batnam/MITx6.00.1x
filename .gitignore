@@ -57,3 +57,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+6.00.1x/.idea/
+6.00.1x/*iml
